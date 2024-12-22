@@ -14,7 +14,7 @@ This repository contains a comprehensive collection of assignments, practicals, 
 ### Clone the Repository  
 To get started, clone this repository to your local machine:  
 ```bash
-git clone https://github.com/yourusername/undip-ds-essentials.git
+git clone https://github.com/sulhanfuadi/undip-ds-essentials.git
 cd undip-ds-essentials
 ```  
 
